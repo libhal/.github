@@ -13,7 +13,6 @@
 ## Installing on Ubuntu 22.04
 
 ```bash
-sudo apt update && sudo apt upgrade
 sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
 sudo apt install -y build-essential g++-11
 pip3 install conan cmake
