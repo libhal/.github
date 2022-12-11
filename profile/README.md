@@ -18,13 +18,11 @@
 
 [Install](#-install)
 | [Overview](#ℹ%EF%B8%8F-overview)
-| [Glossary](#-glossary)
-| [Usage](#%EF%B8%8F-usage)
+| [Getting Started](#-getting-started-incomplete)
 | [Badges](#-library-badges)
-| [Standards](#-library-standards)
 | [Libraries](#-libraries)
 | [Motivation](#-motivation)
-| [Contributing](#-contributing)
+| [Glossary](#-glossary)
 
 🚧 **_This document is still in construction and is subject to change at any time_** 🚧
 
@@ -168,23 +166,6 @@ Some points to consider when seeing a library that uses floats:
 - The infrastructure for error handling is already handled by Boost.LEAF so
   exceptions are redundant.
 - Exceptions require dynamic memory allocate.
-
-# Making your own libhal Interfaces and Drivers
-
-In order to demonstrate how to create an interface a thoroughly
-documented/commented set of example code has been written. The comments in these
-files acts as guides to help new developers learn how to create their own
-libhal interfaces, peripheral drivers, device drivers and soft drivers.
-
-The following files are a guide to how to write their respective driver:
-
-- Peripheral Drivers:
-  - [`lpc40xx::adc.hpp`](https://github.com/libhal/liblpc40xx/blob/main/include/liblpc40xx/adc.hpp)
-- Device Drivers:
-  - [`mma8452q::accelerometer.hpp`]() TBD
-- Soft Drivers;
-  - [`hal::rc_servo.hpp`]() TBD
-  - [`hal::bit_bang_spi.hpp`]() TBD
 
 # 📚 Libraries
 
