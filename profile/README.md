@@ -37,7 +37,7 @@ package manager to make managing, upgrading, and changing dependencies easier.
 
 ## Using Conan (RECOMMENDED)
 
-Link to the [Install Conan Prerequisites](conan-prerequisites.md) page.
+Link to the [Install Conan Prerequisites](docs/conan-prerequisites.md) page.
 
 ### Install from `libhal-trunk`
 
