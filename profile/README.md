@@ -21,6 +21,6 @@ MAKING HARDWARE DRIVERS
 <h2>
 <a href="https://libhal.github.io/trying_out/">🚀 Getting Started</a> ➖
 <a href="https://libhal.github.io/">📖 Documentation</a> ➖
-<a href="" style="text-decoration: line-through;">🔎 Find Device Drivers </a>
+<a href="https://github.com/libhal/.github/blob/main/docs/unavailable.md">🔎 Find Device Drivers 🚫</a>
 </h2>
 </div>
