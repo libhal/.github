@@ -4,11 +4,11 @@
 <br />
 
 ```
-MAKING HARDWARE DRIVERS
+MAKING FIRMWARE DEVELOPMENT
 ---
 🚚 portable 🦾 flexible 📦 accessible 🍰 easy to use
 ```
-<br />
+
 </div>
 
 <div align="center">
@@ -19,7 +19,6 @@ MAKING HARDWARE DRIVERS
 
 [![GitHub stars](https://img.shields.io/github/stars/libhal/libhal.svg)](https://github.com/libhal/libhal/stargazers)
 [![Discord](https://img.shields.io/discord/800515757871726622?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/p5A6vzv8tm)
-
 
 <table>
   <tr>
