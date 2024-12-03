@@ -31,6 +31,15 @@ MAKING FIRMWARE DEVELOPMENT
     <th>
       <p>Latest Version</p>
     </th>
+    <th>
+      <p>Repo</p>
+    </th>
+    <th>
+      <p>CI State</p>
+    </th>
+    <th>
+      <p>Latest Version</p>
+    </th>
   </tr>
 
   <tr>
@@ -43,9 +52,6 @@ MAKING FIRMWARE DEVELOPMENT
     <td>
       <a href="https://github.com/libhal/libhal/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal" /></a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-util/">libhal/libhal-util</a>
     </td>
@@ -69,9 +75,6 @@ MAKING FIRMWARE DEVELOPMENT
       <img src="https://img.shields.io/github/v/release/libhal/libhal-arm-mcu" />
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-micromod/">libhal/libhal-micromod</a>
     </td>
@@ -93,9 +96,6 @@ MAKING FIRMWARE DEVELOPMENT
     <td>
       <a href="https://github.com/libhal/libhal-expander/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-expander" /></a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-sensor/">libhal/libhal-sensor</a>
     </td>
@@ -117,9 +117,6 @@ MAKING FIRMWARE DEVELOPMENT
     <td>
       <a href="https://github.com/libhal/libhal-actuator/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-actuator" /></a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-display/">libhal/libhal-display</a>
     </td>
@@ -141,9 +138,6 @@ MAKING FIRMWARE DEVELOPMENT
     <td>
       <a href="https://github.com/libhal/libhal-input/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-input" /></a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-freertos/">libhal/libhal-freertos</a>
     </td>
@@ -154,7 +148,6 @@ MAKING FIRMWARE DEVELOPMENT
       <a href="https://github.com/libhal/libhal-freertos/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-freertos" /></a>
     </td>
   </tr>
-
   <tr>
     <td>
       <a href="https://github.com/libhal/libhal-storage/">libhal/libhal-storage</a>
@@ -165,9 +158,6 @@ MAKING FIRMWARE DEVELOPMENT
     <td>
       <a href="https://github.com/libhal/libhal-storage/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-storage" /></a>
     </td>
-  </tr>
-
-  <tr>
     <td>
       <a href="https://github.com/libhal/libhal-iot/">libhal/libhal-iot</a>
     </td>
@@ -178,8 +168,5 @@ MAKING FIRMWARE DEVELOPMENT
       <a href="https://github.com/libhal/libhal-iot/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-iot" /></a>
     </td>
   </tr>
-
 </table>
-
-
 </div>
