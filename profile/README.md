@@ -20,7 +20,10 @@ MAKING FIRMWARE DEVELOPMENT
 [![GitHub stars](https://img.shields.io/github/stars/libhal/libhal.svg)](https://github.com/libhal/libhal/stargazers)
 [![Discord](https://img.shields.io/discord/800515757871726622?color=7389D8&logo=discord&logoColor=ffffff&labelColor=6A7EC2)](https://discord.gg/p5A6vzv8tm)
 
+## Libraries
+
 <table>
+
   <tr>
     <th>
       <p>Repo</p>
@@ -169,4 +172,69 @@ MAKING FIRMWARE DEVELOPMENT
     </td>
   </tr>
 </table>
+
+## Build Systems & Toolchains
+
+<table>
+
+  <tr>
+    <th>
+      <p>Repo</p>
+    </th>
+    <th>
+      <p>CI State</p>
+    </th>
+    <th>
+      <p>Latest Version</p>
+    </th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/libhal/ci/">ci</a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/ci/actions/workflows/self_check.yml"><img src="https://github.com/libhal/ci/actions/workflows/self_check.yml/badge.svg" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/ci/releases">
+      <img src="https://img.shields.io/github/v/release/libhal/ci" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/libhal/libhal-exceptions/">libhal-exceptions</a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-exceptions/actions/workflows/ci.yml"><img src="https://github.com/libhal/libhal-exceptions/actions/workflows/ci.yml/badge.svg" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-exceptions/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-exceptions" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/libhal/libhal-cmake-util/">libhal-cmake-util</a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-cmake-util/actions/workflows/deploy.yml"><img src="https://github.com/libhal/libhal-cmake-util/actions/workflows/deploy.yml/badge.svg" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-cmake-util/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-cmake-util" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/libhal/libhal-bootstrap/">libhal-bootstrap</a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-bootstrap/actions/workflows/deploy.yml"><img src="https://github.com/libhal/libhal-bootstrap/actions/workflows/deploy.yml/badge.svg" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/libhal/libhal-bootstrap/releases"><img src="https://img.shields.io/github/v/release/libhal/libhal-bootstrap" /></a>
+    </td>
+  </tr>
+</table>
+
 </div>
